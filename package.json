@@ -1,0 +1,14 @@
+{
+  "name": "troublshooting2",
+  "version": "1.0.0",
+  "description": "## Finding Errors in existing code and fixing them",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
