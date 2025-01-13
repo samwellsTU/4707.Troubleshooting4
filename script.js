@@ -1,4 +1,5 @@
 //↓↓↓↓↓↓↓↓↓↓↓↓TROUBLESHOOT the code  below here↓↓↓↓↓↓↓↓↓↓↓↓
+//define a new let
 if (true) {
     let oneLet = "Hello!";
 }
@@ -11,6 +12,7 @@ let myNeatArray = [1, 34, temperature, true 'hi, there!'];
 console.log(myNeatArray[6])
 
 myNewArray.push('anotherThing')
+
 
 
 //↑↑↑↑↑↑↑↑↑↑TROUBLESHOOT the code above here↑↑↑↑↑↑↑↑↑↑
