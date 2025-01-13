@@ -25,7 +25,7 @@ You can either download `script.js` to work on it:
 
 or edit it on the GitHub website.
 
-- Click on `script.js'
+- Click on `script.js`
 - Click the pencil icon (Edit this file) in the upper right corner of the file view.
 - Make Changes: Edit the file in the web editor.
 - Commit the Changes: Scroll down to the "Commit changes" section. Provide a brief description of your changes in the commit message box.
